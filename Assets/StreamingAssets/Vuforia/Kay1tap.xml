@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="oongart" size="5.000000 2.752613" />
+    <ImageTarget name="Kay1kub" size="5.000000 8.888889" />
+    <ImageTarget name="peempro" size="5.000000 5.000000" />
+    <ImageTarget name="ajoong" size="5.000000 5.000000" />
+    <ImageTarget name="peem_kub" size="5.000000 6.666667" />
+    <ImageTarget name="Jib_image" size="5.000000 3.750000" />
+  </Tracking>
+</QCARConfig>
